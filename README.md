@@ -47,6 +47,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k-madhumithaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-madhumithaa&theme=tokyonight&hide_border=true" height="150" alt="Streak stats"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=k-madhumithaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="150"
+    alt="GitHub stats"
+  />
+
+  <img src="https://streak-stats.demolab.com/?user=k-madhumithaa&theme=tokyonight&hide_border=true" height="150" alt="Streak stats"/>
 </p>
