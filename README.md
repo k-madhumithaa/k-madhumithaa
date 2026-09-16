@@ -46,12 +46,21 @@
 
 ---
 
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=k-madhumithaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="150"
-    alt="GitHub stats"
-  />
-
-  <img src="https://streak-stats.demolab.com/?user=k-madhumithaa&theme=tokyonight&hide_border=true" height="150" alt="Streak stats"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=k-madhumithaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+        height="200"
+        alt="GitHub stats"
+      />
+    </td>
+    <td>
+      <img
+        src="./profile/streak.svg"
+        height="200"
+        alt="GitHub streak stats"
+      />
+    </td>
+  </tr>
+</table>
